@@ -1,5 +1,7 @@
 # no-http-todo-app
 
+> Simple Todo App without any HTTP Requests
+
 # Screenshots
 
 # (1) Simple TODO App
